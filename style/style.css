@@ -1,0 +1,26 @@
+body {
+    background: rgb(0, 0, 50);
+    color: #fff;
+}
+header{
+    color: #0ff;
+}
+a{
+    text-decoration:none;
+    color:#999;
+}
+.source + a{
+   display:block;
+   overflow:hidden;
+   width:100px;
+   height:20px;
+}
+section section{
+    border:2px solid #088;
+}
+section:first-of-type section {
+    border-color:#066;
+}
+.brainSection{
+    border:none;
+}
