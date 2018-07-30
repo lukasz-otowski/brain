@@ -86,3 +86,13 @@ section:first-of-type section {
 .brainSection{
     border:none;
 }
+.langPL{
+    display: initial;
+}
+.langButton{
+    position: fixed;
+    right: 50px;
+    top: 50px;
+    width: 50px;
+    height: 25px;
+}
