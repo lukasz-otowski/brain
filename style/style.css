@@ -91,6 +91,7 @@ a {
 
 section section {
     border: 2px solid #088;
+    padding: 10px;
 }
 
 section:first-of-type section {
@@ -103,8 +104,11 @@ section:first-of-type section {
 
 .langPL {
     display: initial;
+    color:#aaa;
 }
-
+header .langPL{
+    color: #0aa;
+}
 .langButton {
     position: fixed;
     right: 50px;
