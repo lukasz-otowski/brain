@@ -116,3 +116,6 @@ header .langPL{
     width: 50px;
     height: 25px;
 }
+canvas{
+    margin: auto;
+}
