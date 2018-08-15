@@ -13,6 +13,9 @@
         "Astrocytes - Astrocytes is the biggest of glial cells, it  participate in build blood-brain barier. Form glial scars in damaged part of brain. Protrusions of astrocytes surround neuron synapses and influence on information moving across synapse between neurons.",
         "Oligodendrocytes - this is a glia cells what form myelin cover",
         "Schwann cells - One of glial cells, it support neuron in peripheral nervous system by forming myelin cover",
-        "Microglial - One of glial cells. Microglia constituting approximately 5-20% of neural cells"
+        "Microglial - One of glial cells. Microglia constituting approximately 5-20% of neural cells",
+        
+        //limbic system
+        "Limbic system - The system of cortical structures involved in the regulation of emotional behavior and the process of memorization"
     ]
 }
