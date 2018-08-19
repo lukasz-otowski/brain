@@ -116,6 +116,26 @@ header .langPL{
     width: 50px;
     height: 25px;
 }
+.canvas-container {
+    position: relative;
+    font: bold 24px sans-serif; 
+}
+.canvas-container p {
+    position: absolute;
+    color: #000;
+    text-align: center;
+    width: 100%;
+}
+.canvas-container .frontal{
+    top: 30%;
+}
+.canvas-container .parietal {
+    top: 63%;
+}
+.canvas-container .occipital {
+    font-size: 18px;
+    top: 81%;
+}
 canvas{
     margin: auto;
 }
