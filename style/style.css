@@ -109,6 +109,9 @@ section:first-of-type section {
 header .langPL{
     color: #0aa;
 }
+.frontalLobeUL .langPL {
+    display: block;
+}
 .langButton {
     position: fixed;
     right: 50px;
