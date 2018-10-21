@@ -142,3 +142,6 @@ header .langPL{
 canvas{
     margin: auto;
 }
+.neurons img {
+    background: #fff;
+}
