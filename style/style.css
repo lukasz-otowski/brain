@@ -119,6 +119,10 @@ header .langPL{
     width: 50px;
     height: 25px;
 }
+.img-brain-lobes {
+    display: flex;
+    justify-content: space-around;
+}
 .canvas-container {
     position: relative;
     font: bold 24px sans-serif; 
@@ -138,6 +142,9 @@ header .langPL{
 .canvas-container .occipital {
     font-size: 18px;
     top: 81%;
+}
+.img-brain-side {
+    border: 3px solid rgb(0, 0, 0);
 }
 canvas{
     margin: auto;
