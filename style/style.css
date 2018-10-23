@@ -6,7 +6,17 @@ body {
 header {
     color: #0ff;
 }
-
+.nav-main {
+    display: inline-block;
+    width: 45%;
+}
+.brodmann {
+    display: inline-block;
+    width: 45%;
+}
+.brodmann img {
+    width: 100%;
+}
 a {
     text-decoration: none;
     color: #999;
